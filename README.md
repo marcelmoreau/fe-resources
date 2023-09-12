@@ -1,5 +1,5 @@
 # On Code Quality
-- [ ] [SOLID Principles in Vue](https://medium.com/@moein.mirkiani/solid-principles-in-vue-29ecc988f968), by Moein Mirkiani
+- [x] [SOLID Principles in Vue](https://medium.com/@moein.mirkiani/solid-principles-in-vue-29ecc988f968), by Moein Mirkiani
 - [ ] [SOLID Principles in Vue 2 Components](https://medium.com/@dumdumgenius/solid-principles-in-vue-2-components-12476d826e58), by Messi Yang
 
 # On Readability
