@@ -12,4 +12,4 @@
 
 # On Collaboration
 ## Across disciplines
-- [ ] [How to be the favorite engineer among your product manager and designer](https://careercutler.substack.com/p/how-to-be-the-favorite-engineer-among), by Jordan Cutler
+- [x] [How to be the favorite engineer among your product manager and designer](https://careercutler.substack.com/p/how-to-be-the-favorite-engineer-among), by Jordan Cutler
