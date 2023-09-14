@@ -8,7 +8,7 @@
 
 # On Testing
 - [x] [To test or not to test, a technical perspective](https://web.dev/ta-what-to-test/), by Ramona Schwering
-- [x]
+- [x] [Understanding Front-end Testing](https://medium.com/@moein.mirkiani/understanding-front-end-testing-ccfb63c5e3e5), by Moein Mirkiani
 # On Collaboration
 ## Across disciplines
 - [x] [How to be the favorite engineer among your product manager and designer](https://careercutler.substack.com/p/how-to-be-the-favorite-engineer-among), by Jordan Cutler
