@@ -1,6 +1,6 @@
 # On Code Quality
 - [x] [SOLID Principles in Vue](https://medium.com/@moein.mirkiani/solid-principles-in-vue-29ecc988f968), by Moein Mirkiani
-- [ ] [SOLID Principles in Vue 2 Components](https://medium.com/@dumdumgenius/solid-principles-in-vue-2-components-12476d826e58), by Messi Yang
+- [x] [SOLID Principles in Vue 2 Components](https://medium.com/@dumdumgenius/solid-principles-in-vue-2-components-12476d826e58), by Messi Yang
 
 # On Readability
 - [ ] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/ref=sr_1_1?keywords=clean+code+by+robert+c.+martin&qid=1693453124&sprefix=clean+code%2Caps%2C123&sr=8-1), by Robert C. Martin
